@@ -1,2 +1,2 @@
-# A-snowy-scene-theme
+# Icy
 A theme I made for AwesomeWM
